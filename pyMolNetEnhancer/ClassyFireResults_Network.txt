@@ -1,0 +1,532 @@
+cluster index	CF_componentindex	CF_NrNodes	CF_kingdom	CF_kingdom_score	CF_superclass	CF_superclass_score	CF_class	CF_class_score	CF_subclass	CF_subclass_score	CF_Dparent	CF_Dparent_score	CF_MFramework	CF_MFramework_score
+1	22	6	Organic compounds	0.8333333333333334	Lipids and lipid-like molecules	0.1818783068783069	Prenol lipids	0.1164021164021164		0.26884920634920634	Hybrid peptides	0.08333333333333333	Aromatic heteropolycyclic compounds	0.548941798941799
+8	22	6	Organic compounds	0.8333333333333334	Lipids and lipid-like molecules	0.1818783068783069	Prenol lipids	0.1164021164021164		0.26884920634920634	Hybrid peptides	0.08333333333333333	Aromatic heteropolycyclic compounds	0.548941798941799
+9	22	6	Organic compounds	0.8333333333333334	Lipids and lipid-like molecules	0.1818783068783069	Prenol lipids	0.1164021164021164		0.26884920634920634	Hybrid peptides	0.08333333333333333	Aromatic heteropolycyclic compounds	0.548941798941799
+179	22	6	Organic compounds	0.8333333333333334	Lipids and lipid-like molecules	0.1818783068783069	Prenol lipids	0.1164021164021164		0.26884920634920634	Hybrid peptides	0.08333333333333333	Aromatic heteropolycyclic compounds	0.548941798941799
+219	22	6	Organic compounds	0.8333333333333334	Lipids and lipid-like molecules	0.1818783068783069	Prenol lipids	0.1164021164021164		0.26884920634920634	Hybrid peptides	0.08333333333333333	Aromatic heteropolycyclic compounds	0.548941798941799
+264	22	6	Organic compounds	0.8333333333333334	Lipids and lipid-like molecules	0.1818783068783069	Prenol lipids	0.1164021164021164		0.26884920634920634	Hybrid peptides	0.08333333333333333	Aromatic heteropolycyclic compounds	0.548941798941799
+2	S1	1	no matches		no matches		no matches		no matches		no matches		no matches	
+3	S2	1	no matches		no matches		no matches		no matches		no matches		no matches	
+4	24	5	Organic compounds	1.0	Lipids and lipid-like molecules	0.8	Prenol lipids	0.7083333333333333	Triterpenoids	0.6833333333333333	Triterpenoids	0.6833333333333333	Aliphatic homopolycyclic compounds	0.8
+50	24	5	Organic compounds	1.0	Lipids and lipid-like molecules	0.8	Prenol lipids	0.7083333333333333	Triterpenoids	0.6833333333333333	Triterpenoids	0.6833333333333333	Aliphatic homopolycyclic compounds	0.8
+244	24	5	Organic compounds	1.0	Lipids and lipid-like molecules	0.8	Prenol lipids	0.7083333333333333	Triterpenoids	0.6833333333333333	Triterpenoids	0.6833333333333333	Aliphatic homopolycyclic compounds	0.8
+339	24	5	Organic compounds	1.0	Lipids and lipid-like molecules	0.8	Prenol lipids	0.7083333333333333	Triterpenoids	0.6833333333333333	Triterpenoids	0.6833333333333333	Aliphatic homopolycyclic compounds	0.8
+529	24	5	Organic compounds	1.0	Lipids and lipid-like molecules	0.8	Prenol lipids	0.7083333333333333	Triterpenoids	0.6833333333333333	Triterpenoids	0.6833333333333333	Aliphatic homopolycyclic compounds	0.8
+5	S3	1	no matches		no matches		no matches		no matches		no matches		no matches	
+6	S4	1	no matches		no matches		no matches		no matches		no matches		no matches	
+7	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+12	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+16	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+29	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+36	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+38	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+45	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+63	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+65	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+79	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+82	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+90	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+96	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+112	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+113	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+132	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+178	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+181	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+187	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+189	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+191	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+195	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+199	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+206	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+214	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+218	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+238	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+240	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+245	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+248	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+249	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+251	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+263	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+274	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+278	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+284	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+290	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+323	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+324	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+325	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+326	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+328	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+329	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+336	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+344	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+364	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+386	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+394	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+423	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+424	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+427	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+433	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+434	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+438	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+446	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+466	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+469	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+472	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+477	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+478	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+479	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+488	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+491	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+493	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+499	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+510	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+512	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+515	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+516	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+527	1	70	Organic compounds	0.8	Lipids and lipid-like molecules	0.522783446712018	Prenol lipids	0.35197845804988664	Triterpenoids	0.19715419501133788	Triterpenoids	0.1761451247165533	Aliphatic heteropolycyclic compounds	0.24446712018140593
+10	S5	1	no matches		no matches		no matches		no matches		no matches		no matches	
+11	18	4	Organic compounds	1.0	Organoheterocyclic compounds	0.35	Carboxylic acids and derivatives	0.3333333333333333	Amino acids, peptides, and analogues	0.3333333333333333	Peptides	0.125	Aliphatic acyclic compounds	0.3625
+266	18	4	Organic compounds	1.0	Organoheterocyclic compounds	0.35	Carboxylic acids and derivatives	0.3333333333333333	Amino acids, peptides, and analogues	0.3333333333333333	Peptides	0.125	Aliphatic acyclic compounds	0.3625
+341	18	4	Organic compounds	1.0	Organoheterocyclic compounds	0.35	Carboxylic acids and derivatives	0.3333333333333333	Amino acids, peptides, and analogues	0.3333333333333333	Peptides	0.125	Aliphatic acyclic compounds	0.3625
+425	18	4	Organic compounds	1.0	Organoheterocyclic compounds	0.35	Carboxylic acids and derivatives	0.3333333333333333	Amino acids, peptides, and analogues	0.3333333333333333	Peptides	0.125	Aliphatic acyclic compounds	0.3625
+13	21	9	Organic compounds	1.0	Lipids and lipid-like molecules	0.8419753086419752	Prenol lipids	0.5345679012345679	Triterpenoids	0.29876543209876544	Triterpenoids	0.29876543209876544	Aliphatic heteropolycyclic compounds	0.6864197530864199
+22	21	9	Organic compounds	1.0	Lipids and lipid-like molecules	0.8419753086419752	Prenol lipids	0.5345679012345679	Triterpenoids	0.29876543209876544	Triterpenoids	0.29876543209876544	Aliphatic heteropolycyclic compounds	0.6864197530864199
+84	21	9	Organic compounds	1.0	Lipids and lipid-like molecules	0.8419753086419752	Prenol lipids	0.5345679012345679	Triterpenoids	0.29876543209876544	Triterpenoids	0.29876543209876544	Aliphatic heteropolycyclic compounds	0.6864197530864199
+91	21	9	Organic compounds	1.0	Lipids and lipid-like molecules	0.8419753086419752	Prenol lipids	0.5345679012345679	Triterpenoids	0.29876543209876544	Triterpenoids	0.29876543209876544	Aliphatic heteropolycyclic compounds	0.6864197530864199
+94	21	9	Organic compounds	1.0	Lipids and lipid-like molecules	0.8419753086419752	Prenol lipids	0.5345679012345679	Triterpenoids	0.29876543209876544	Triterpenoids	0.29876543209876544	Aliphatic heteropolycyclic compounds	0.6864197530864199
+109	21	9	Organic compounds	1.0	Lipids and lipid-like molecules	0.8419753086419752	Prenol lipids	0.5345679012345679	Triterpenoids	0.29876543209876544	Triterpenoids	0.29876543209876544	Aliphatic heteropolycyclic compounds	0.6864197530864199
+121	21	9	Organic compounds	1.0	Lipids and lipid-like molecules	0.8419753086419752	Prenol lipids	0.5345679012345679	Triterpenoids	0.29876543209876544	Triterpenoids	0.29876543209876544	Aliphatic heteropolycyclic compounds	0.6864197530864199
+129	21	9	Organic compounds	1.0	Lipids and lipid-like molecules	0.8419753086419752	Prenol lipids	0.5345679012345679	Triterpenoids	0.29876543209876544	Triterpenoids	0.29876543209876544	Aliphatic heteropolycyclic compounds	0.6864197530864199
+135	21	9	Organic compounds	1.0	Lipids and lipid-like molecules	0.8419753086419752	Prenol lipids	0.5345679012345679	Triterpenoids	0.29876543209876544	Triterpenoids	0.29876543209876544	Aliphatic heteropolycyclic compounds	0.6864197530864199
+14	4	19	Organic compounds	0.8947368421052632	Lipids and lipid-like molecules	0.6140350877192983	Prenol lipids	0.5252923976608187	Triterpenoids	0.4168964076858813	Triterpenoids	0.4168964076858813	Aromatic homopolycyclic compounds	0.3951754385964912
+19	4	19	Organic compounds	0.8947368421052632	Lipids and lipid-like molecules	0.6140350877192983	Prenol lipids	0.5252923976608187	Triterpenoids	0.4168964076858813	Triterpenoids	0.4168964076858813	Aromatic homopolycyclic compounds	0.3951754385964912
+41	4	19	Organic compounds	0.8947368421052632	Lipids and lipid-like molecules	0.6140350877192983	Prenol lipids	0.5252923976608187	Triterpenoids	0.4168964076858813	Triterpenoids	0.4168964076858813	Aromatic homopolycyclic compounds	0.3951754385964912
+69	4	19	Organic compounds	0.8947368421052632	Lipids and lipid-like molecules	0.6140350877192983	Prenol lipids	0.5252923976608187	Triterpenoids	0.4168964076858813	Triterpenoids	0.4168964076858813	Aromatic homopolycyclic compounds	0.3951754385964912
+77	4	19	Organic compounds	0.8947368421052632	Lipids and lipid-like molecules	0.6140350877192983	Prenol lipids	0.5252923976608187	Triterpenoids	0.4168964076858813	Triterpenoids	0.4168964076858813	Aromatic homopolycyclic compounds	0.3951754385964912
+190	4	19	Organic compounds	0.8947368421052632	Lipids and lipid-like molecules	0.6140350877192983	Prenol lipids	0.5252923976608187	Triterpenoids	0.4168964076858813	Triterpenoids	0.4168964076858813	Aromatic homopolycyclic compounds	0.3951754385964912
+216	4	19	Organic compounds	0.8947368421052632	Lipids and lipid-like molecules	0.6140350877192983	Prenol lipids	0.5252923976608187	Triterpenoids	0.4168964076858813	Triterpenoids	0.4168964076858813	Aromatic homopolycyclic compounds	0.3951754385964912
+228	4	19	Organic compounds	0.8947368421052632	Lipids and lipid-like molecules	0.6140350877192983	Prenol lipids	0.5252923976608187	Triterpenoids	0.4168964076858813	Triterpenoids	0.4168964076858813	Aromatic homopolycyclic compounds	0.3951754385964912
+255	4	19	Organic compounds	0.8947368421052632	Lipids and lipid-like molecules	0.6140350877192983	Prenol lipids	0.5252923976608187	Triterpenoids	0.4168964076858813	Triterpenoids	0.4168964076858813	Aromatic homopolycyclic compounds	0.3951754385964912
+272	4	19	Organic compounds	0.8947368421052632	Lipids and lipid-like molecules	0.6140350877192983	Prenol lipids	0.5252923976608187	Triterpenoids	0.4168964076858813	Triterpenoids	0.4168964076858813	Aromatic homopolycyclic compounds	0.3951754385964912
+281	4	19	Organic compounds	0.8947368421052632	Lipids and lipid-like molecules	0.6140350877192983	Prenol lipids	0.5252923976608187	Triterpenoids	0.4168964076858813	Triterpenoids	0.4168964076858813	Aromatic homopolycyclic compounds	0.3951754385964912
+282	4	19	Organic compounds	0.8947368421052632	Lipids and lipid-like molecules	0.6140350877192983	Prenol lipids	0.5252923976608187	Triterpenoids	0.4168964076858813	Triterpenoids	0.4168964076858813	Aromatic homopolycyclic compounds	0.3951754385964912
+312	4	19	Organic compounds	0.8947368421052632	Lipids and lipid-like molecules	0.6140350877192983	Prenol lipids	0.5252923976608187	Triterpenoids	0.4168964076858813	Triterpenoids	0.4168964076858813	Aromatic homopolycyclic compounds	0.3951754385964912
+389	4	19	Organic compounds	0.8947368421052632	Lipids and lipid-like molecules	0.6140350877192983	Prenol lipids	0.5252923976608187	Triterpenoids	0.4168964076858813	Triterpenoids	0.4168964076858813	Aromatic homopolycyclic compounds	0.3951754385964912
+391	4	19	Organic compounds	0.8947368421052632	Lipids and lipid-like molecules	0.6140350877192983	Prenol lipids	0.5252923976608187	Triterpenoids	0.4168964076858813	Triterpenoids	0.4168964076858813	Aromatic homopolycyclic compounds	0.3951754385964912
+393	4	19	Organic compounds	0.8947368421052632	Lipids and lipid-like molecules	0.6140350877192983	Prenol lipids	0.5252923976608187	Triterpenoids	0.4168964076858813	Triterpenoids	0.4168964076858813	Aromatic homopolycyclic compounds	0.3951754385964912
+480	4	19	Organic compounds	0.8947368421052632	Lipids and lipid-like molecules	0.6140350877192983	Prenol lipids	0.5252923976608187	Triterpenoids	0.4168964076858813	Triterpenoids	0.4168964076858813	Aromatic homopolycyclic compounds	0.3951754385964912
+482	4	19	Organic compounds	0.8947368421052632	Lipids and lipid-like molecules	0.6140350877192983	Prenol lipids	0.5252923976608187	Triterpenoids	0.4168964076858813	Triterpenoids	0.4168964076858813	Aromatic homopolycyclic compounds	0.3951754385964912
+494	4	19	Organic compounds	0.8947368421052632	Lipids and lipid-like molecules	0.6140350877192983	Prenol lipids	0.5252923976608187	Triterpenoids	0.4168964076858813	Triterpenoids	0.4168964076858813	Aromatic homopolycyclic compounds	0.3951754385964912
+15	S6	1	no matches		no matches		no matches		no matches		no matches		no matches	
+17	14	5	Organic compounds	1.0	Organic acids and derivatives	0.4444444444444445	Carboxylic acids and derivatives	0.4444444444444445	Dicarboxylic acids and derivatives	0.2	Dicarboxylic acids and derivatives	0.2	Aromatic heteropolycyclic compounds	0.45555555555555555
+155	14	5	Organic compounds	1.0	Organic acids and derivatives	0.4444444444444445	Carboxylic acids and derivatives	0.4444444444444445	Dicarboxylic acids and derivatives	0.2	Dicarboxylic acids and derivatives	0.2	Aromatic heteropolycyclic compounds	0.45555555555555555
+200	14	5	Organic compounds	1.0	Organic acids and derivatives	0.4444444444444445	Carboxylic acids and derivatives	0.4444444444444445	Dicarboxylic acids and derivatives	0.2	Dicarboxylic acids and derivatives	0.2	Aromatic heteropolycyclic compounds	0.45555555555555555
+308	14	5	Organic compounds	1.0	Organic acids and derivatives	0.4444444444444445	Carboxylic acids and derivatives	0.4444444444444445	Dicarboxylic acids and derivatives	0.2	Dicarboxylic acids and derivatives	0.2	Aromatic heteropolycyclic compounds	0.45555555555555555
+414	14	5	Organic compounds	1.0	Organic acids and derivatives	0.4444444444444445	Carboxylic acids and derivatives	0.4444444444444445	Dicarboxylic acids and derivatives	0.2	Dicarboxylic acids and derivatives	0.2	Aromatic heteropolycyclic compounds	0.45555555555555555
+18	S7	1	no matches		no matches		no matches		no matches		no matches		no matches	
+20	S8	1	no matches		no matches		no matches		no matches		no matches		no matches	
+21	2	4	Organic compounds	1.0	Organoheterocyclic compounds	0.5	Indoles and derivatives	0.5	Indolecarboxylic acids and derivatives	0.5	Indolecarboxylic acids and derivatives	0.5	Aromatic heteropolycyclic compounds	0.65
+176	2	4	Organic compounds	1.0	Organoheterocyclic compounds	0.5	Indoles and derivatives	0.5	Indolecarboxylic acids and derivatives	0.5	Indolecarboxylic acids and derivatives	0.5	Aromatic heteropolycyclic compounds	0.65
+247	2	4	Organic compounds	1.0	Organoheterocyclic compounds	0.5	Indoles and derivatives	0.5	Indolecarboxylic acids and derivatives	0.5	Indolecarboxylic acids and derivatives	0.5	Aromatic heteropolycyclic compounds	0.65
+273	2	4	Organic compounds	1.0	Organoheterocyclic compounds	0.5	Indoles and derivatives	0.5	Indolecarboxylic acids and derivatives	0.5	Indolecarboxylic acids and derivatives	0.5	Aromatic heteropolycyclic compounds	0.65
+23	S9	1	no matches		no matches		no matches		no matches		no matches		no matches	
+24	16	16	Organic compounds	0.6875	Phenylpropanoids and polyketides	0.3587797619047619	Flavonoids	0.3228422619047619	Flavonoid glycosides	0.26607142857142857	Flavonoid-3-O-glycosides	0.18459821428571432	Aromatic heteropolycyclic compounds	0.48586309523809523
+83	16	16	Organic compounds	0.6875	Phenylpropanoids and polyketides	0.3587797619047619	Flavonoids	0.3228422619047619	Flavonoid glycosides	0.26607142857142857	Flavonoid-3-O-glycosides	0.18459821428571432	Aromatic heteropolycyclic compounds	0.48586309523809523
+85	16	16	Organic compounds	0.6875	Phenylpropanoids and polyketides	0.3587797619047619	Flavonoids	0.3228422619047619	Flavonoid glycosides	0.26607142857142857	Flavonoid-3-O-glycosides	0.18459821428571432	Aromatic heteropolycyclic compounds	0.48586309523809523
+89	16	16	Organic compounds	0.6875	Phenylpropanoids and polyketides	0.3587797619047619	Flavonoids	0.3228422619047619	Flavonoid glycosides	0.26607142857142857	Flavonoid-3-O-glycosides	0.18459821428571432	Aromatic heteropolycyclic compounds	0.48586309523809523
+92	16	16	Organic compounds	0.6875	Phenylpropanoids and polyketides	0.3587797619047619	Flavonoids	0.3228422619047619	Flavonoid glycosides	0.26607142857142857	Flavonoid-3-O-glycosides	0.18459821428571432	Aromatic heteropolycyclic compounds	0.48586309523809523
+95	16	16	Organic compounds	0.6875	Phenylpropanoids and polyketides	0.3587797619047619	Flavonoids	0.3228422619047619	Flavonoid glycosides	0.26607142857142857	Flavonoid-3-O-glycosides	0.18459821428571432	Aromatic heteropolycyclic compounds	0.48586309523809523
+102	16	16	Organic compounds	0.6875	Phenylpropanoids and polyketides	0.3587797619047619	Flavonoids	0.3228422619047619	Flavonoid glycosides	0.26607142857142857	Flavonoid-3-O-glycosides	0.18459821428571432	Aromatic heteropolycyclic compounds	0.48586309523809523
+108	16	16	Organic compounds	0.6875	Phenylpropanoids and polyketides	0.3587797619047619	Flavonoids	0.3228422619047619	Flavonoid glycosides	0.26607142857142857	Flavonoid-3-O-glycosides	0.18459821428571432	Aromatic heteropolycyclic compounds	0.48586309523809523
+111	16	16	Organic compounds	0.6875	Phenylpropanoids and polyketides	0.3587797619047619	Flavonoids	0.3228422619047619	Flavonoid glycosides	0.26607142857142857	Flavonoid-3-O-glycosides	0.18459821428571432	Aromatic heteropolycyclic compounds	0.48586309523809523
+119	16	16	Organic compounds	0.6875	Phenylpropanoids and polyketides	0.3587797619047619	Flavonoids	0.3228422619047619	Flavonoid glycosides	0.26607142857142857	Flavonoid-3-O-glycosides	0.18459821428571432	Aromatic heteropolycyclic compounds	0.48586309523809523
+122	16	16	Organic compounds	0.6875	Phenylpropanoids and polyketides	0.3587797619047619	Flavonoids	0.3228422619047619	Flavonoid glycosides	0.26607142857142857	Flavonoid-3-O-glycosides	0.18459821428571432	Aromatic heteropolycyclic compounds	0.48586309523809523
+127	16	16	Organic compounds	0.6875	Phenylpropanoids and polyketides	0.3587797619047619	Flavonoids	0.3228422619047619	Flavonoid glycosides	0.26607142857142857	Flavonoid-3-O-glycosides	0.18459821428571432	Aromatic heteropolycyclic compounds	0.48586309523809523
+131	16	16	Organic compounds	0.6875	Phenylpropanoids and polyketides	0.3587797619047619	Flavonoids	0.3228422619047619	Flavonoid glycosides	0.26607142857142857	Flavonoid-3-O-glycosides	0.18459821428571432	Aromatic heteropolycyclic compounds	0.48586309523809523
+215	16	16	Organic compounds	0.6875	Phenylpropanoids and polyketides	0.3587797619047619	Flavonoids	0.3228422619047619	Flavonoid glycosides	0.26607142857142857	Flavonoid-3-O-glycosides	0.18459821428571432	Aromatic heteropolycyclic compounds	0.48586309523809523
+444	16	16	Organic compounds	0.6875	Phenylpropanoids and polyketides	0.3587797619047619	Flavonoids	0.3228422619047619	Flavonoid glycosides	0.26607142857142857	Flavonoid-3-O-glycosides	0.18459821428571432	Aromatic heteropolycyclic compounds	0.48586309523809523
+459	16	16	Organic compounds	0.6875	Phenylpropanoids and polyketides	0.3587797619047619	Flavonoids	0.3228422619047619	Flavonoid glycosides	0.26607142857142857	Flavonoid-3-O-glycosides	0.18459821428571432	Aromatic heteropolycyclic compounds	0.48586309523809523
+25	S10	1	no matches		no matches		no matches		no matches		no matches		no matches	
+26	S11	1	no matches		no matches		no matches		no matches		no matches		no matches	
+27	S12	1	no matches		no matches		no matches		no matches		no matches		no matches	
+28	S13	1	no matches		no matches		no matches		no matches		no matches		no matches	
+30	S14	1	no matches		no matches		no matches		no matches		no matches		no matches	
+31	S15	1	no matches		no matches		no matches		no matches		no matches		no matches	
+32	S16	1	no matches		no matches		no matches		no matches		no matches		no matches	
+33	S17	1	no matches		no matches		no matches		no matches		no matches		no matches	
+34	7	42	Organic compounds	0.6904761904761905	Phenylpropanoids and polyketides	0.4013605442176872	Tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Aromatic heteropolycyclic compounds	0.5773809523809523
+39	7	42	Organic compounds	0.6904761904761905	Phenylpropanoids and polyketides	0.4013605442176872	Tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Aromatic heteropolycyclic compounds	0.5773809523809523
+61	7	42	Organic compounds	0.6904761904761905	Phenylpropanoids and polyketides	0.4013605442176872	Tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Aromatic heteropolycyclic compounds	0.5773809523809523
+117	7	42	Organic compounds	0.6904761904761905	Phenylpropanoids and polyketides	0.4013605442176872	Tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Aromatic heteropolycyclic compounds	0.5773809523809523
+139	7	42	Organic compounds	0.6904761904761905	Phenylpropanoids and polyketides	0.4013605442176872	Tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Aromatic heteropolycyclic compounds	0.5773809523809523
+140	7	42	Organic compounds	0.6904761904761905	Phenylpropanoids and polyketides	0.4013605442176872	Tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Aromatic heteropolycyclic compounds	0.5773809523809523
+141	7	42	Organic compounds	0.6904761904761905	Phenylpropanoids and polyketides	0.4013605442176872	Tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Aromatic heteropolycyclic compounds	0.5773809523809523
+146	7	42	Organic compounds	0.6904761904761905	Phenylpropanoids and polyketides	0.4013605442176872	Tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Aromatic heteropolycyclic compounds	0.5773809523809523
+147	7	42	Organic compounds	0.6904761904761905	Phenylpropanoids and polyketides	0.4013605442176872	Tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Aromatic heteropolycyclic compounds	0.5773809523809523
+148	7	42	Organic compounds	0.6904761904761905	Phenylpropanoids and polyketides	0.4013605442176872	Tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Aromatic heteropolycyclic compounds	0.5773809523809523
+150	7	42	Organic compounds	0.6904761904761905	Phenylpropanoids and polyketides	0.4013605442176872	Tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Aromatic heteropolycyclic compounds	0.5773809523809523
+151	7	42	Organic compounds	0.6904761904761905	Phenylpropanoids and polyketides	0.4013605442176872	Tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Aromatic heteropolycyclic compounds	0.5773809523809523
+153	7	42	Organic compounds	0.6904761904761905	Phenylpropanoids and polyketides	0.4013605442176872	Tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Aromatic heteropolycyclic compounds	0.5773809523809523
+157	7	42	Organic compounds	0.6904761904761905	Phenylpropanoids and polyketides	0.4013605442176872	Tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Aromatic heteropolycyclic compounds	0.5773809523809523
+158	7	42	Organic compounds	0.6904761904761905	Phenylpropanoids and polyketides	0.4013605442176872	Tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Aromatic heteropolycyclic compounds	0.5773809523809523
+159	7	42	Organic compounds	0.6904761904761905	Phenylpropanoids and polyketides	0.4013605442176872	Tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Aromatic heteropolycyclic compounds	0.5773809523809523
+162	7	42	Organic compounds	0.6904761904761905	Phenylpropanoids and polyketides	0.4013605442176872	Tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Aromatic heteropolycyclic compounds	0.5773809523809523
+170	7	42	Organic compounds	0.6904761904761905	Phenylpropanoids and polyketides	0.4013605442176872	Tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Aromatic heteropolycyclic compounds	0.5773809523809523
+173	7	42	Organic compounds	0.6904761904761905	Phenylpropanoids and polyketides	0.4013605442176872	Tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Aromatic heteropolycyclic compounds	0.5773809523809523
+196	7	42	Organic compounds	0.6904761904761905	Phenylpropanoids and polyketides	0.4013605442176872	Tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Aromatic heteropolycyclic compounds	0.5773809523809523
+350	7	42	Organic compounds	0.6904761904761905	Phenylpropanoids and polyketides	0.4013605442176872	Tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Aromatic heteropolycyclic compounds	0.5773809523809523
+351	7	42	Organic compounds	0.6904761904761905	Phenylpropanoids and polyketides	0.4013605442176872	Tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Aromatic heteropolycyclic compounds	0.5773809523809523
+352	7	42	Organic compounds	0.6904761904761905	Phenylpropanoids and polyketides	0.4013605442176872	Tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Aromatic heteropolycyclic compounds	0.5773809523809523
+353	7	42	Organic compounds	0.6904761904761905	Phenylpropanoids and polyketides	0.4013605442176872	Tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Aromatic heteropolycyclic compounds	0.5773809523809523
+354	7	42	Organic compounds	0.6904761904761905	Phenylpropanoids and polyketides	0.4013605442176872	Tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Aromatic heteropolycyclic compounds	0.5773809523809523
+355	7	42	Organic compounds	0.6904761904761905	Phenylpropanoids and polyketides	0.4013605442176872	Tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Aromatic heteropolycyclic compounds	0.5773809523809523
+356	7	42	Organic compounds	0.6904761904761905	Phenylpropanoids and polyketides	0.4013605442176872	Tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Aromatic heteropolycyclic compounds	0.5773809523809523
+358	7	42	Organic compounds	0.6904761904761905	Phenylpropanoids and polyketides	0.4013605442176872	Tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Aromatic heteropolycyclic compounds	0.5773809523809523
+360	7	42	Organic compounds	0.6904761904761905	Phenylpropanoids and polyketides	0.4013605442176872	Tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Aromatic heteropolycyclic compounds	0.5773809523809523
+361	7	42	Organic compounds	0.6904761904761905	Phenylpropanoids and polyketides	0.4013605442176872	Tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Aromatic heteropolycyclic compounds	0.5773809523809523
+365	7	42	Organic compounds	0.6904761904761905	Phenylpropanoids and polyketides	0.4013605442176872	Tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Aromatic heteropolycyclic compounds	0.5773809523809523
+367	7	42	Organic compounds	0.6904761904761905	Phenylpropanoids and polyketides	0.4013605442176872	Tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Aromatic heteropolycyclic compounds	0.5773809523809523
+368	7	42	Organic compounds	0.6904761904761905	Phenylpropanoids and polyketides	0.4013605442176872	Tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Aromatic heteropolycyclic compounds	0.5773809523809523
+372	7	42	Organic compounds	0.6904761904761905	Phenylpropanoids and polyketides	0.4013605442176872	Tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Aromatic heteropolycyclic compounds	0.5773809523809523
+373	7	42	Organic compounds	0.6904761904761905	Phenylpropanoids and polyketides	0.4013605442176872	Tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Aromatic heteropolycyclic compounds	0.5773809523809523
+382	7	42	Organic compounds	0.6904761904761905	Phenylpropanoids and polyketides	0.4013605442176872	Tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Aromatic heteropolycyclic compounds	0.5773809523809523
+387	7	42	Organic compounds	0.6904761904761905	Phenylpropanoids and polyketides	0.4013605442176872	Tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Aromatic heteropolycyclic compounds	0.5773809523809523
+388	7	42	Organic compounds	0.6904761904761905	Phenylpropanoids and polyketides	0.4013605442176872	Tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Aromatic heteropolycyclic compounds	0.5773809523809523
+440	7	42	Organic compounds	0.6904761904761905	Phenylpropanoids and polyketides	0.4013605442176872	Tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Aromatic heteropolycyclic compounds	0.5773809523809523
+447	7	42	Organic compounds	0.6904761904761905	Phenylpropanoids and polyketides	0.4013605442176872	Tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Aromatic heteropolycyclic compounds	0.5773809523809523
+448	7	42	Organic compounds	0.6904761904761905	Phenylpropanoids and polyketides	0.4013605442176872	Tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Aromatic heteropolycyclic compounds	0.5773809523809523
+449	7	42	Organic compounds	0.6904761904761905	Phenylpropanoids and polyketides	0.4013605442176872	Tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Hydrolyzable tannins	0.346797052154195	Aromatic heteropolycyclic compounds	0.5773809523809523
+35	S18	1	no matches		no matches		no matches		no matches		no matches		no matches	
+37	S19	1	no matches		no matches		no matches		no matches		no matches		no matches	
+40	S20	1	no matches		no matches		no matches		no matches		no matches		no matches	
+42	S21	1	no matches		no matches		no matches		no matches		no matches		no matches	
+43	S22	1	no matches		no matches		no matches		no matches		no matches		no matches	
+44	S23	1	no matches		no matches		no matches		no matches		no matches		no matches	
+46	S24	1	no matches		no matches		no matches		no matches		no matches		no matches	
+47	S25	1	no matches		no matches		no matches		no matches		no matches		no matches	
+48	S26	1	no matches		no matches		no matches		no matches		no matches		no matches	
+49	S27	1	no matches		no matches		no matches		no matches		no matches		no matches	
+51	S28	1	no matches		no matches		no matches		no matches		no matches		no matches	
+52	20	7	Organic compounds	1.0	Organoheterocyclic compounds	0.45873015873015877	Diazines	0.11706349206349206		0.16428571428571428	Phenylpyrimidines	0.11706349206349206	Aromatic heteromonocyclic compounds	0.49563492063492065
+217	20	7	Organic compounds	1.0	Organoheterocyclic compounds	0.45873015873015877	Diazines	0.11706349206349206		0.16428571428571428	Phenylpyrimidines	0.11706349206349206	Aromatic heteromonocyclic compounds	0.49563492063492065
+262	20	7	Organic compounds	1.0	Organoheterocyclic compounds	0.45873015873015877	Diazines	0.11706349206349206		0.16428571428571428	Phenylpyrimidines	0.11706349206349206	Aromatic heteromonocyclic compounds	0.49563492063492065
+292	20	7	Organic compounds	1.0	Organoheterocyclic compounds	0.45873015873015877	Diazines	0.11706349206349206		0.16428571428571428	Phenylpyrimidines	0.11706349206349206	Aromatic heteromonocyclic compounds	0.49563492063492065
+313	20	7	Organic compounds	1.0	Organoheterocyclic compounds	0.45873015873015877	Diazines	0.11706349206349206		0.16428571428571428	Phenylpyrimidines	0.11706349206349206	Aromatic heteromonocyclic compounds	0.49563492063492065
+474	20	7	Organic compounds	1.0	Organoheterocyclic compounds	0.45873015873015877	Diazines	0.11706349206349206		0.16428571428571428	Phenylpyrimidines	0.11706349206349206	Aromatic heteromonocyclic compounds	0.49563492063492065
+530	20	7	Organic compounds	1.0	Organoheterocyclic compounds	0.45873015873015877	Diazines	0.11706349206349206		0.16428571428571428	Phenylpyrimidines	0.11706349206349206	Aromatic heteromonocyclic compounds	0.49563492063492065
+53	S29	1	no matches		no matches		no matches		no matches		no matches		no matches	
+54	S30	1	no matches		no matches		no matches		no matches		no matches		no matches	
+55	S31	1	no matches		no matches		no matches		no matches		no matches		no matches	
+56	S32	1	no matches		no matches		no matches		no matches		no matches		no matches	
+57	S33	1	no matches		no matches		no matches		no matches		no matches		no matches	
+58	S34	1	no matches		no matches		no matches		no matches		no matches		no matches	
+59	S35	1	no matches		no matches		no matches		no matches		no matches		no matches	
+60	S36	1	no matches		no matches		no matches		no matches		no matches		no matches	
+62	S37	1	no matches		no matches		no matches		no matches		no matches		no matches	
+64	3	5	Organic compounds	0.4	Organic oxygen compounds	0.2	Organooxygen compounds	0.2	Carbohydrates and carbohydrate conjugates	0.2	Oligosaccharides	0.2	Aliphatic heteromonocyclic compounds	0.2
+72	3	5	Organic compounds	0.4	Organic oxygen compounds	0.2	Organooxygen compounds	0.2	Carbohydrates and carbohydrate conjugates	0.2	Oligosaccharides	0.2	Aliphatic heteromonocyclic compounds	0.2
+233	3	5	Organic compounds	0.4	Organic oxygen compounds	0.2	Organooxygen compounds	0.2	Carbohydrates and carbohydrate conjugates	0.2	Oligosaccharides	0.2	Aliphatic heteromonocyclic compounds	0.2
+239	3	5	Organic compounds	0.4	Organic oxygen compounds	0.2	Organooxygen compounds	0.2	Carbohydrates and carbohydrate conjugates	0.2	Oligosaccharides	0.2	Aliphatic heteromonocyclic compounds	0.2
+404	3	5	Organic compounds	0.4	Organic oxygen compounds	0.2	Organooxygen compounds	0.2	Carbohydrates and carbohydrate conjugates	0.2	Oligosaccharides	0.2	Aliphatic heteromonocyclic compounds	0.2
+66	S38	1	no matches		no matches		no matches		no matches		no matches		no matches	
+67	S39	1	no matches		no matches		no matches		no matches		no matches		no matches	
+68	27	2	Organic compounds	1.0	Lignans, neolignans and related compounds	0.8125	Lignan glycosides	0.8125		0.8125	Lignan glycosides	0.8125	Aromatic heteromonocyclic compounds	0.8125
+197	27	2	Organic compounds	1.0	Lignans, neolignans and related compounds	0.8125	Lignan glycosides	0.8125		0.8125	Lignan glycosides	0.8125	Aromatic heteromonocyclic compounds	0.8125
+70	S40	1	no matches		no matches		no matches		no matches		no matches		no matches	
+71	9	17	Organic compounds	0.8823529411764706	Phenylpropanoids and polyketides	0.2006069094304388	Carboxylic acids and derivatives	0.13333333333333333		0.18095238095238098	Linear diarylheptanoids	0.07236227824463119	Aromatic heteropolycyclic compounds	0.5578664799253035
+81	9	17	Organic compounds	0.8823529411764706	Phenylpropanoids and polyketides	0.2006069094304388	Carboxylic acids and derivatives	0.13333333333333333		0.18095238095238098	Linear diarylheptanoids	0.07236227824463119	Aromatic heteropolycyclic compounds	0.5578664799253035
+202	9	17	Organic compounds	0.8823529411764706	Phenylpropanoids and polyketides	0.2006069094304388	Carboxylic acids and derivatives	0.13333333333333333		0.18095238095238098	Linear diarylheptanoids	0.07236227824463119	Aromatic heteropolycyclic compounds	0.5578664799253035
+205	9	17	Organic compounds	0.8823529411764706	Phenylpropanoids and polyketides	0.2006069094304388	Carboxylic acids and derivatives	0.13333333333333333		0.18095238095238098	Linear diarylheptanoids	0.07236227824463119	Aromatic heteropolycyclic compounds	0.5578664799253035
+208	9	17	Organic compounds	0.8823529411764706	Phenylpropanoids and polyketides	0.2006069094304388	Carboxylic acids and derivatives	0.13333333333333333		0.18095238095238098	Linear diarylheptanoids	0.07236227824463119	Aromatic heteropolycyclic compounds	0.5578664799253035
+211	9	17	Organic compounds	0.8823529411764706	Phenylpropanoids and polyketides	0.2006069094304388	Carboxylic acids and derivatives	0.13333333333333333		0.18095238095238098	Linear diarylheptanoids	0.07236227824463119	Aromatic heteropolycyclic compounds	0.5578664799253035
+213	9	17	Organic compounds	0.8823529411764706	Phenylpropanoids and polyketides	0.2006069094304388	Carboxylic acids and derivatives	0.13333333333333333		0.18095238095238098	Linear diarylheptanoids	0.07236227824463119	Aromatic heteropolycyclic compounds	0.5578664799253035
+235	9	17	Organic compounds	0.8823529411764706	Phenylpropanoids and polyketides	0.2006069094304388	Carboxylic acids and derivatives	0.13333333333333333		0.18095238095238098	Linear diarylheptanoids	0.07236227824463119	Aromatic heteropolycyclic compounds	0.5578664799253035
+241	9	17	Organic compounds	0.8823529411764706	Phenylpropanoids and polyketides	0.2006069094304388	Carboxylic acids and derivatives	0.13333333333333333		0.18095238095238098	Linear diarylheptanoids	0.07236227824463119	Aromatic heteropolycyclic compounds	0.5578664799253035
+242	9	17	Organic compounds	0.8823529411764706	Phenylpropanoids and polyketides	0.2006069094304388	Carboxylic acids and derivatives	0.13333333333333333		0.18095238095238098	Linear diarylheptanoids	0.07236227824463119	Aromatic heteropolycyclic compounds	0.5578664799253035
+243	9	17	Organic compounds	0.8823529411764706	Phenylpropanoids and polyketides	0.2006069094304388	Carboxylic acids and derivatives	0.13333333333333333		0.18095238095238098	Linear diarylheptanoids	0.07236227824463119	Aromatic heteropolycyclic compounds	0.5578664799253035
+246	9	17	Organic compounds	0.8823529411764706	Phenylpropanoids and polyketides	0.2006069094304388	Carboxylic acids and derivatives	0.13333333333333333		0.18095238095238098	Linear diarylheptanoids	0.07236227824463119	Aromatic heteropolycyclic compounds	0.5578664799253035
+279	9	17	Organic compounds	0.8823529411764706	Phenylpropanoids and polyketides	0.2006069094304388	Carboxylic acids and derivatives	0.13333333333333333		0.18095238095238098	Linear diarylheptanoids	0.07236227824463119	Aromatic heteropolycyclic compounds	0.5578664799253035
+321	9	17	Organic compounds	0.8823529411764706	Phenylpropanoids and polyketides	0.2006069094304388	Carboxylic acids and derivatives	0.13333333333333333		0.18095238095238098	Linear diarylheptanoids	0.07236227824463119	Aromatic heteropolycyclic compounds	0.5578664799253035
+392	9	17	Organic compounds	0.8823529411764706	Phenylpropanoids and polyketides	0.2006069094304388	Carboxylic acids and derivatives	0.13333333333333333		0.18095238095238098	Linear diarylheptanoids	0.07236227824463119	Aromatic heteropolycyclic compounds	0.5578664799253035
+396	9	17	Organic compounds	0.8823529411764706	Phenylpropanoids and polyketides	0.2006069094304388	Carboxylic acids and derivatives	0.13333333333333333		0.18095238095238098	Linear diarylheptanoids	0.07236227824463119	Aromatic heteropolycyclic compounds	0.5578664799253035
+443	9	17	Organic compounds	0.8823529411764706	Phenylpropanoids and polyketides	0.2006069094304388	Carboxylic acids and derivatives	0.13333333333333333		0.18095238095238098	Linear diarylheptanoids	0.07236227824463119	Aromatic heteropolycyclic compounds	0.5578664799253035
+73	S41	1	no matches		no matches		no matches		no matches		no matches		no matches	
+74	S42	1	no matches		no matches		no matches		no matches		no matches		no matches	
+75	S43	1	no matches		no matches		no matches		no matches		no matches		no matches	
+76	S44	1	no matches		no matches		no matches		no matches		no matches		no matches	
+78	S45	1	no matches		no matches		no matches		no matches		no matches		no matches	
+80	S46	1	no matches		no matches		no matches		no matches		no matches		no matches	
+86	S47	1	no matches		no matches		no matches		no matches		no matches		no matches	
+87	S48	1	no matches		no matches		no matches		no matches		no matches		no matches	
+88	S49	1	no matches		no matches		no matches		no matches		no matches		no matches	
+93	S50	1	no matches		no matches		no matches		no matches		no matches		no matches	
+97	23	2	Organic compounds	1.0	Phenylpropanoids and polyketides	0.5	Flavonoids	0.5	Terpene lactones	0.4444444444444444	Eudesmanolides, secoeudesmanolides, and derivatives	0.2222222222222222	Aromatic heteropolycyclic compounds	0.5555555555555556
+485	23	2	Organic compounds	1.0	Phenylpropanoids and polyketides	0.5	Flavonoids	0.5	Terpene lactones	0.4444444444444444	Eudesmanolides, secoeudesmanolides, and derivatives	0.2222222222222222	Aromatic heteropolycyclic compounds	0.5555555555555556
+98	S51	1	no matches		no matches		no matches		no matches		no matches		no matches	
+99	S52	1	no matches		no matches		no matches		no matches		no matches		no matches	
+100	S53	1	no matches		no matches		no matches		no matches		no matches		no matches	
+101	S54	1	no matches		no matches		no matches		no matches		no matches		no matches	
+103	S55	1	no matches		no matches		no matches		no matches		no matches		no matches	
+104	S56	1	Organic compounds	1.0	Phenylpropanoids and polyketides	1.0	Flavonoids	1.0	Flavonoid glycosides	1.0	Flavonoid-7-O-glycosides	1.0	Aromatic heteropolycyclic compounds	1.0
+105	S57	1	no matches		no matches		no matches		no matches		no matches		no matches	
+106	S58	1	no matches		no matches		no matches		no matches		no matches		no matches	
+107	S59	1	no matches		no matches		no matches		no matches		no matches		no matches	
+110	5	2	Organic compounds	1.0	Lipids and lipid-like molecules	0.8888888888888888	Steroids and steroid derivatives	0.4722222222222222	Steroidal glycosides	0.2222222222222222	Cucurbitacin glycosides	0.2222222222222222	Aliphatic homopolycyclic compounds	0.4375
+470	5	2	Organic compounds	1.0	Lipids and lipid-like molecules	0.8888888888888888	Steroids and steroid derivatives	0.4722222222222222	Steroidal glycosides	0.2222222222222222	Cucurbitacin glycosides	0.2222222222222222	Aliphatic homopolycyclic compounds	0.4375
+114	S60	1	no matches		no matches		no matches		no matches		no matches		no matches	
+115	S61	1	no matches		no matches		no matches		no matches		no matches		no matches	
+116	S62	1	no matches		no matches		no matches		no matches		no matches		no matches	
+118	S63	1	no matches		no matches		no matches		no matches		no matches		no matches	
+120	S64	1	no matches		no matches		no matches		no matches		no matches		no matches	
+123	S65	1	no matches		no matches		no matches		no matches		no matches		no matches	
+124	S66	1	no matches		no matches		no matches		no matches		no matches		no matches	
+125	S67	1	no matches		no matches		no matches		no matches		no matches		no matches	
+126	S68	1	no matches		no matches		no matches		no matches		no matches		no matches	
+128	S69	1	no matches		no matches		no matches		no matches		no matches		no matches	
+130	S70	1	no matches		no matches		no matches		no matches		no matches		no matches	
+133	15	3	Organic compounds	1.0	Organoheterocyclic compounds	0.3666666666666667	Piperidines	0.3333333333333333	Benzylpiperidines	0.3333333333333333	4-benzylpiperidines	0.3333333333333333	Aromatic heteropolycyclic compounds	0.7000000000000001
+234	15	3	Organic compounds	1.0	Organoheterocyclic compounds	0.3666666666666667	Piperidines	0.3333333333333333	Benzylpiperidines	0.3333333333333333	4-benzylpiperidines	0.3333333333333333	Aromatic heteropolycyclic compounds	0.7000000000000001
+283	15	3	Organic compounds	1.0	Organoheterocyclic compounds	0.3666666666666667	Piperidines	0.3333333333333333	Benzylpiperidines	0.3333333333333333	4-benzylpiperidines	0.3333333333333333	Aromatic heteropolycyclic compounds	0.7000000000000001
+134	S71	1	no matches		no matches		no matches		no matches		no matches		no matches	
+136	S72	1	no matches		no matches		no matches		no matches		no matches		no matches	
+137	S73	1	no matches		no matches		no matches		no matches		no matches		no matches	
+138	S74	1	no matches		no matches		no matches		no matches		no matches		no matches	
+142	S75	1	no matches		no matches		no matches		no matches		no matches		no matches	
+143	S76	1	no matches		no matches		no matches		no matches		no matches		no matches	
+144	S77	1	no matches		no matches		no matches		no matches		no matches		no matches	
+145	S78	1	no matches		no matches		no matches		no matches		no matches		no matches	
+149	S79	1	no matches		no matches		no matches		no matches		no matches		no matches	
+152	13	9	Organic compounds	0.7777777777777778	Phenylpropanoids and polyketides	0.39603174603174607	Tannins	0.39603174603174607		0.3821428571428572	Tannins	0.3821428571428572	Aromatic heteromonocyclic compounds	0.5555555555555556
+371	13	9	Organic compounds	0.7777777777777778	Phenylpropanoids and polyketides	0.39603174603174607	Tannins	0.39603174603174607		0.3821428571428572	Tannins	0.3821428571428572	Aromatic heteromonocyclic compounds	0.5555555555555556
+384	13	9	Organic compounds	0.7777777777777778	Phenylpropanoids and polyketides	0.39603174603174607	Tannins	0.39603174603174607		0.3821428571428572	Tannins	0.3821428571428572	Aromatic heteromonocyclic compounds	0.5555555555555556
+408	13	9	Organic compounds	0.7777777777777778	Phenylpropanoids and polyketides	0.39603174603174607	Tannins	0.39603174603174607		0.3821428571428572	Tannins	0.3821428571428572	Aromatic heteromonocyclic compounds	0.5555555555555556
+410	13	9	Organic compounds	0.7777777777777778	Phenylpropanoids and polyketides	0.39603174603174607	Tannins	0.39603174603174607		0.3821428571428572	Tannins	0.3821428571428572	Aromatic heteromonocyclic compounds	0.5555555555555556
+421	13	9	Organic compounds	0.7777777777777778	Phenylpropanoids and polyketides	0.39603174603174607	Tannins	0.39603174603174607		0.3821428571428572	Tannins	0.3821428571428572	Aromatic heteromonocyclic compounds	0.5555555555555556
+453	13	9	Organic compounds	0.7777777777777778	Phenylpropanoids and polyketides	0.39603174603174607	Tannins	0.39603174603174607		0.3821428571428572	Tannins	0.3821428571428572	Aromatic heteromonocyclic compounds	0.5555555555555556
+460	13	9	Organic compounds	0.7777777777777778	Phenylpropanoids and polyketides	0.39603174603174607	Tannins	0.39603174603174607		0.3821428571428572	Tannins	0.3821428571428572	Aromatic heteromonocyclic compounds	0.5555555555555556
+461	13	9	Organic compounds	0.7777777777777778	Phenylpropanoids and polyketides	0.39603174603174607	Tannins	0.39603174603174607		0.3821428571428572	Tannins	0.3821428571428572	Aromatic heteromonocyclic compounds	0.5555555555555556
+154	S80	1	no matches		no matches		no matches		no matches		no matches		no matches	
+156	S81	1	no matches		no matches		no matches		no matches		no matches		no matches	
+160	S82	1	no matches		no matches		no matches		no matches		no matches		no matches	
+161	S83	1	no matches		no matches		no matches		no matches		no matches		no matches	
+163	S84	1	no matches		no matches		no matches		no matches		no matches		no matches	
+164	S85	1	no matches		no matches		no matches		no matches		no matches		no matches	
+165	S86	1	no matches		no matches		no matches		no matches		no matches		no matches	
+166	S87	1	no matches		no matches		no matches		no matches		no matches		no matches	
+167	S88	1	no matches		no matches		no matches		no matches		no matches		no matches	
+168	S89	1	no matches		no matches		no matches		no matches		no matches		no matches	
+169	S90	1	no matches		no matches		no matches		no matches		no matches		no matches	
+171	S91	1	no matches		no matches		no matches		no matches		no matches		no matches	
+172	S92	1	no matches		no matches		no matches		no matches		no matches		no matches	
+174	S93	1	no matches		no matches		no matches		no matches		no matches		no matches	
+175	8	3	Organic compounds	1.0	Organoheterocyclic compounds	0.3518518518518518	Organooxygen compounds	0.25925925925925924	Carbonyl compounds	0.25925925925925924	Alkyl-phenylketones	0.25925925925925924	Aromatic heteropolycyclic compounds	0.8888888888888888
+381	8	3	Organic compounds	1.0	Organoheterocyclic compounds	0.3518518518518518	Organooxygen compounds	0.25925925925925924	Carbonyl compounds	0.25925925925925924	Alkyl-phenylketones	0.25925925925925924	Aromatic heteropolycyclic compounds	0.8888888888888888
+400	8	3	Organic compounds	1.0	Organoheterocyclic compounds	0.3518518518518518	Organooxygen compounds	0.25925925925925924	Carbonyl compounds	0.25925925925925924	Alkyl-phenylketones	0.25925925925925924	Aromatic heteropolycyclic compounds	0.8888888888888888
+177	S94	1	no matches		no matches		no matches		no matches		no matches		no matches	
+180	26	2	no matches		no matches		no matches		no matches		no matches		no matches	
+359	26	2	no matches		no matches		no matches		no matches		no matches		no matches	
+182	S95	1	no matches		no matches		no matches		no matches		no matches		no matches	
+183	S96	1	no matches		no matches		no matches		no matches		no matches		no matches	
+184	S97	1	no matches		no matches		no matches		no matches		no matches		no matches	
+185	S98	1	no matches		no matches		no matches		no matches		no matches		no matches	
+186	S99	1	no matches		no matches		no matches		no matches		no matches		no matches	
+188	S100	1	no matches		no matches		no matches		no matches		no matches		no matches	
+192	S101	1	no matches		no matches		no matches		no matches		no matches		no matches	
+193	S102	1	no matches		no matches		no matches		no matches		no matches		no matches	
+194	S103	1	no matches		no matches		no matches		no matches		no matches		no matches	
+198	S104	1	no matches		no matches		no matches		no matches		no matches		no matches	
+201	S105	1	no matches		no matches		no matches		no matches		no matches		no matches	
+203	19	2	Organic compounds	1.0	Phenylpropanoids and polyketides	0.5	Aurone flavonoids	0.5		0.5	Aurone flavonoids	0.5	Aromatic heteropolycyclic compounds	0.9375
+226	19	2	Organic compounds	1.0	Phenylpropanoids and polyketides	0.5	Aurone flavonoids	0.5		0.5	Aurone flavonoids	0.5	Aromatic heteropolycyclic compounds	0.9375
+204	S106	1	no matches		no matches		no matches		no matches		no matches		no matches	
+207	29	3	Organic compounds	0.6666666666666666	Lipids and lipid-like molecules	0.4444444444444444	Prenol lipids	0.16666666666666666	Terpene glycosides	0.16666666666666666	Diterpene glycosides	0.16666666666666666	Aliphatic heteromonocyclic compounds	0.5555555555555555
+221	29	3	Organic compounds	0.6666666666666666	Lipids and lipid-like molecules	0.4444444444444444	Prenol lipids	0.16666666666666666	Terpene glycosides	0.16666666666666666	Diterpene glycosides	0.16666666666666666	Aliphatic heteromonocyclic compounds	0.5555555555555555
+412	29	3	Organic compounds	0.6666666666666666	Lipids and lipid-like molecules	0.4444444444444444	Prenol lipids	0.16666666666666666	Terpene glycosides	0.16666666666666666	Diterpene glycosides	0.16666666666666666	Aliphatic heteromonocyclic compounds	0.5555555555555555
+209	S107	1	no matches		no matches		no matches		no matches		no matches		no matches	
+210	S108	1	no matches		no matches		no matches		no matches		no matches		no matches	
+212	S109	1	no matches		no matches		no matches		no matches		no matches		no matches	
+220	S110	1	no matches		no matches		no matches		no matches		no matches		no matches	
+222	S111	1	no matches		no matches		no matches		no matches		no matches		no matches	
+223	S112	1	no matches		no matches		no matches		no matches		no matches		no matches	
+224	S113	1	no matches		no matches		no matches		no matches		no matches		no matches	
+225	S114	1	no matches		no matches		no matches		no matches		no matches		no matches	
+227	S115	1	no matches		no matches		no matches		no matches		no matches		no matches	
+229	12	5	Organic compounds	0.4	Phenylpropanoids and polyketides	0.37142857142857144	Flavonoids	0.37142857142857144	Flavonoid glycosides	0.34285714285714286	Flavonoid-3-O-glycosides	0.2	Aromatic heteropolycyclic compounds	0.4
+402	12	5	Organic compounds	0.4	Phenylpropanoids and polyketides	0.37142857142857144	Flavonoids	0.37142857142857144	Flavonoid glycosides	0.34285714285714286	Flavonoid-3-O-glycosides	0.2	Aromatic heteropolycyclic compounds	0.4
+403	12	5	Organic compounds	0.4	Phenylpropanoids and polyketides	0.37142857142857144	Flavonoids	0.37142857142857144	Flavonoid glycosides	0.34285714285714286	Flavonoid-3-O-glycosides	0.2	Aromatic heteropolycyclic compounds	0.4
+407	12	5	Organic compounds	0.4	Phenylpropanoids and polyketides	0.37142857142857144	Flavonoids	0.37142857142857144	Flavonoid glycosides	0.34285714285714286	Flavonoid-3-O-glycosides	0.2	Aromatic heteropolycyclic compounds	0.4
+418	12	5	Organic compounds	0.4	Phenylpropanoids and polyketides	0.37142857142857144	Flavonoids	0.37142857142857144	Flavonoid glycosides	0.34285714285714286	Flavonoid-3-O-glycosides	0.2	Aromatic heteropolycyclic compounds	0.4
+230	S116	1	no matches		no matches		no matches		no matches		no matches		no matches	
+231	S117	1	no matches		no matches		no matches		no matches		no matches		no matches	
+232	S118	1	no matches		no matches		no matches		no matches		no matches		no matches	
+236	S119	1	no matches		no matches		no matches		no matches		no matches		no matches	
+237	S120	1	no matches		no matches		no matches		no matches		no matches		no matches	
+250	10	2	Organic compounds	1.0	Lipids and lipid-like molecules	0.45	Prenol lipids	0.45	Amino acids, peptides, and analogues	0.25	Cyclic peptides	0.25	Aliphatic heteropolycyclic compounds	0.45
+303	10	2	Organic compounds	1.0	Lipids and lipid-like molecules	0.45	Prenol lipids	0.45	Amino acids, peptides, and analogues	0.25	Cyclic peptides	0.25	Aliphatic heteropolycyclic compounds	0.45
+252	S121	1	no matches		no matches		no matches		no matches		no matches		no matches	
+253	S122	1	no matches		no matches		no matches		no matches		no matches		no matches	
+254	S123	1	no matches		no matches		no matches		no matches		no matches		no matches	
+256	31	2	Organic compounds	1.0	Organoheterocyclic compounds	0.5	Benzofurans	0.5	Flavaglines	0.5	Flavaglines	0.5	Aromatic heteropolycyclic compounds	0.6666666666666666
+275	31	2	Organic compounds	1.0	Organoheterocyclic compounds	0.5	Benzofurans	0.5	Flavaglines	0.5	Flavaglines	0.5	Aromatic heteropolycyclic compounds	0.6666666666666666
+257	S124	1	no matches		no matches		no matches		no matches		no matches		no matches	
+258	S125	1	no matches		no matches		no matches		no matches		no matches		no matches	
+259	S126	1	no matches		no matches		no matches		no matches		no matches		no matches	
+260	S127	1	no matches		no matches		no matches		no matches		no matches		no matches	
+261	S128	1	no matches		no matches		no matches		no matches		no matches		no matches	
+265	S129	1	no matches		no matches		no matches		no matches		no matches		no matches	
+267	6	2	Organic compounds	1.0	Organic acids and derivatives	0.375	Peptidomimetics	0.25	Hybrid peptides	0.25	Hybrid peptides	0.25	Aromatic heteropolycyclic compounds	0.375
+277	6	2	Organic compounds	1.0	Organic acids and derivatives	0.375	Peptidomimetics	0.25	Hybrid peptides	0.25	Hybrid peptides	0.25	Aromatic heteropolycyclic compounds	0.375
+268	S130	1	no matches		no matches		no matches		no matches		no matches		no matches	
+269	S131	1	no matches		no matches		no matches		no matches		no matches		no matches	
+270	S132	1	no matches		no matches		no matches		no matches		no matches		no matches	
+271	S133	1	no matches		no matches		no matches		no matches		no matches		no matches	
+276	S134	1	no matches		no matches		no matches		no matches		no matches		no matches	
+280	S135	1	no matches		no matches		no matches		no matches		no matches		no matches	
+285	S136	1	no matches		no matches		no matches		no matches		no matches		no matches	
+286	S137	1	no matches		no matches		no matches		no matches		no matches		no matches	
+287	S138	1	no matches		no matches		no matches		no matches		no matches		no matches	
+288	S139	1	no matches		no matches		no matches		no matches		no matches		no matches	
+289	S140	1	no matches		no matches		no matches		no matches		no matches		no matches	
+291	35	2	Organic compounds	1.0	Lignans, neolignans and related compounds	0.5	Carboxylic acids and derivatives	0.3125		0.5625	Pentacarboxylic acids and derivatives	0.3125	Aromatic heteropolycyclic compounds	0.5625
+486	35	2	Organic compounds	1.0	Lignans, neolignans and related compounds	0.5	Carboxylic acids and derivatives	0.3125		0.5625	Pentacarboxylic acids and derivatives	0.3125	Aromatic heteropolycyclic compounds	0.5625
+293	S141	1	no matches		no matches		no matches		no matches		no matches		no matches	
+294	S142	1	no matches		no matches		no matches		no matches		no matches		no matches	
+295	S143	1	no matches		no matches		no matches		no matches		no matches		no matches	
+296	S144	1	no matches		no matches		no matches		no matches		no matches		no matches	
+297	S145	1	no matches		no matches		no matches		no matches		no matches		no matches	
+298	S146	1	no matches		no matches		no matches		no matches		no matches		no matches	
+299	S147	1	no matches		no matches		no matches		no matches		no matches		no matches	
+300	S148	1	no matches		no matches		no matches		no matches		no matches		no matches	
+301	S149	1	no matches		no matches		no matches		no matches		no matches		no matches	
+302	S150	1	no matches		no matches		no matches		no matches		no matches		no matches	
+304	S151	1	no matches		no matches		no matches		no matches		no matches		no matches	
+305	S152	1	no matches		no matches		no matches		no matches		no matches		no matches	
+306	S153	1	no matches		no matches		no matches		no matches		no matches		no matches	
+307	S154	1	no matches		no matches		no matches		no matches		no matches		no matches	
+309	S155	1	no matches		no matches		no matches		no matches		no matches		no matches	
+310	S156	1	no matches		no matches		no matches		no matches		no matches		no matches	
+311	S157	1	no matches		no matches		no matches		no matches		no matches		no matches	
+314	S158	1	no matches		no matches		no matches		no matches		no matches		no matches	
+315	S159	1	no matches		no matches		no matches		no matches		no matches		no matches	
+316	S160	1	no matches		no matches		no matches		no matches		no matches		no matches	
+317	S161	1	no matches		no matches		no matches		no matches		no matches		no matches	
+318	S162	1	no matches		no matches		no matches		no matches		no matches		no matches	
+319	S163	1	no matches		no matches		no matches		no matches		no matches		no matches	
+320	S164	1	no matches		no matches		no matches		no matches		no matches		no matches	
+322	17	2	Organic compounds	1.0	Benzenoids	1.0	Triphenyl compounds	1.0		1.0	Triphenyl compounds	1.0	Aromatic heteromonocyclic compounds	1.0
+490	17	2	Organic compounds	1.0	Benzenoids	1.0	Triphenyl compounds	1.0		1.0	Triphenyl compounds	1.0	Aromatic heteromonocyclic compounds	1.0
+327	S165	1	no matches		no matches		no matches		no matches		no matches		no matches	
+330	S166	1	no matches		no matches		no matches		no matches		no matches		no matches	
+331	S167	1	no matches		no matches		no matches		no matches		no matches		no matches	
+332	S168	1	no matches		no matches		no matches		no matches		no matches		no matches	
+333	S169	1	no matches		no matches		no matches		no matches		no matches		no matches	
+334	S170	1	no matches		no matches		no matches		no matches		no matches		no matches	
+335	S171	1	no matches		no matches		no matches		no matches		no matches		no matches	
+337	S172	1	no matches		no matches		no matches		no matches		no matches		no matches	
+338	S173	1	no matches		no matches		no matches		no matches		no matches		no matches	
+340	S174	1	no matches		no matches		no matches		no matches		no matches		no matches	
+342	S175	1	no matches		no matches		no matches		no matches		no matches		no matches	
+343	S176	1	no matches		no matches		no matches		no matches		no matches		no matches	
+345	S177	1	no matches		no matches		no matches		no matches		no matches		no matches	
+346	S178	1	no matches		no matches		no matches		no matches		no matches		no matches	
+347	S179	1	no matches		no matches		no matches		no matches		no matches		no matches	
+348	S180	1	no matches		no matches		no matches		no matches		no matches		no matches	
+349	S181	1	no matches		no matches		no matches		no matches		no matches		no matches	
+357	S182	1	no matches		no matches		no matches		no matches		no matches		no matches	
+362	S183	1	no matches		no matches		no matches		no matches		no matches		no matches	
+363	S184	1	no matches		no matches		no matches		no matches		no matches		no matches	
+366	S185	1	no matches		no matches		no matches		no matches		no matches		no matches	
+369	S186	1	no matches		no matches		no matches		no matches		no matches		no matches	
+370	S187	1	no matches		no matches		no matches		no matches		no matches		no matches	
+374	S188	1	no matches		no matches		no matches		no matches		no matches		no matches	
+375	S189	1	no matches		no matches		no matches		no matches		no matches		no matches	
+376	S190	1	no matches		no matches		no matches		no matches		no matches		no matches	
+377	S191	1	no matches		no matches		no matches		no matches		no matches		no matches	
+378	S192	1	no matches		no matches		no matches		no matches		no matches		no matches	
+379	S193	1	no matches		no matches		no matches		no matches		no matches		no matches	
+380	S194	1	no matches		no matches		no matches		no matches		no matches		no matches	
+383	S195	1	no matches		no matches		no matches		no matches		no matches		no matches	
+385	S196	1	no matches		no matches		no matches		no matches		no matches		no matches	
+390	S197	1	no matches		no matches		no matches		no matches		no matches		no matches	
+395	S198	1	no matches		no matches		no matches		no matches		no matches		no matches	
+397	S199	1	no matches		no matches		no matches		no matches		no matches		no matches	
+398	S200	1	no matches		no matches		no matches		no matches		no matches		no matches	
+399	S201	1	no matches		no matches		no matches		no matches		no matches		no matches	
+401	S202	1	no matches		no matches		no matches		no matches		no matches		no matches	
+405	S203	1	no matches		no matches		no matches		no matches		no matches		no matches	
+406	S204	1	no matches		no matches		no matches		no matches		no matches		no matches	
+409	11	2	no matches		no matches		no matches		no matches		no matches		no matches	
+411	11	2	no matches		no matches		no matches		no matches		no matches		no matches	
+413	S205	1	no matches		no matches		no matches		no matches		no matches		no matches	
+415	S206	1	no matches		no matches		no matches		no matches		no matches		no matches	
+416	S207	1	no matches		no matches		no matches		no matches		no matches		no matches	
+417	S208	1	no matches		no matches		no matches		no matches		no matches		no matches	
+419	S209	1	no matches		no matches		no matches		no matches		no matches		no matches	
+420	S210	1	no matches		no matches		no matches		no matches		no matches		no matches	
+422	S211	1	no matches		no matches		no matches		no matches		no matches		no matches	
+426	S212	1	no matches		no matches		no matches		no matches		no matches		no matches	
+428	S213	1	no matches		no matches		no matches		no matches		no matches		no matches	
+429	S214	1	no matches		no matches		no matches		no matches		no matches		no matches	
+430	S215	1	no matches		no matches		no matches		no matches		no matches		no matches	
+431	S216	1	no matches		no matches		no matches		no matches		no matches		no matches	
+432	S217	1	no matches		no matches		no matches		no matches		no matches		no matches	
+435	S218	1	no matches		no matches		no matches		no matches		no matches		no matches	
+436	S219	1	no matches		no matches		no matches		no matches		no matches		no matches	
+437	S220	1	no matches		no matches		no matches		no matches		no matches		no matches	
+439	S221	1	no matches		no matches		no matches		no matches		no matches		no matches	
+441	33	3	Organic compounds	1.0	Phenylpropanoids and polyketides	0.4166666666666667	2-arylbenzofuran flavonoids	0.3333333333333333		0.3333333333333333	2-arylbenzofuran flavonoids	0.3333333333333333	Aromatic heteropolycyclic compounds	0.8333333333333334
+500	33	3	Organic compounds	1.0	Phenylpropanoids and polyketides	0.4166666666666667	2-arylbenzofuran flavonoids	0.3333333333333333		0.3333333333333333	2-arylbenzofuran flavonoids	0.3333333333333333	Aromatic heteropolycyclic compounds	0.8333333333333334
+507	33	3	Organic compounds	1.0	Phenylpropanoids and polyketides	0.4166666666666667	2-arylbenzofuran flavonoids	0.3333333333333333		0.3333333333333333	2-arylbenzofuran flavonoids	0.3333333333333333	Aromatic heteropolycyclic compounds	0.8333333333333334
+442	S222	1	no matches		no matches		no matches		no matches		no matches		no matches	
+445	S223	1	no matches		no matches		no matches		no matches		no matches		no matches	
+450	S224	1	no matches		no matches		no matches		no matches		no matches		no matches	
+451	S225	1	no matches		no matches		no matches		no matches		no matches		no matches	
+452	S226	1	no matches		no matches		no matches		no matches		no matches		no matches	
+454	S227	1	no matches		no matches		no matches		no matches		no matches		no matches	
+455	30	2	Organic compounds	1.0	Benzenoids	0.85	Phenol esters	0.6833333333333333		0.6833333333333333	Phenol esters	0.6833333333333333	Aromatic homomonocyclic compounds	0.6833333333333333
+496	30	2	Organic compounds	1.0	Benzenoids	0.85	Phenol esters	0.6833333333333333		0.6833333333333333	Phenol esters	0.6833333333333333	Aromatic homomonocyclic compounds	0.6833333333333333
+456	S228	1	no matches		no matches		no matches		no matches		no matches		no matches	
+457	S229	1	no matches		no matches		no matches		no matches		no matches		no matches	
+458	S230	1	no matches		no matches		no matches		no matches		no matches		no matches	
+462	S231	1	no matches		no matches		no matches		no matches		no matches		no matches	
+463	S232	1	no matches		no matches		no matches		no matches		no matches		no matches	
+464	S233	1	Organic compounds	1.0	Phenylpropanoids and polyketides	1.0	Flavonoids	1.0	Flavonoid glycosides	1.0	Flavonoid O-glucuronides	1.0	Aromatic heteropolycyclic compounds	1.0
+465	S234	1	no matches		no matches		no matches		no matches		no matches		no matches	
+467	25	2	Organic compounds	1.0	Phenylpropanoids and polyketides	0.5	Stilbenes	0.5		0.75	Stilbenes	0.5	Aromatic heteropolycyclic compounds	0.75
+483	25	2	Organic compounds	1.0	Phenylpropanoids and polyketides	0.5	Stilbenes	0.5		0.75	Stilbenes	0.5	Aromatic heteropolycyclic compounds	0.75
+468	S235	1	no matches		no matches		no matches		no matches		no matches		no matches	
+471	S236	1	no matches		no matches		no matches		no matches		no matches		no matches	
+473	S237	1	no matches		no matches		no matches		no matches		no matches		no matches	
+475	S238	1	no matches		no matches		no matches		no matches		no matches		no matches	
+476	S239	1	no matches		no matches		no matches		no matches		no matches		no matches	
+481	S240	1	no matches		no matches		no matches		no matches		no matches		no matches	
+484	S241	1	no matches		no matches		no matches		no matches		no matches		no matches	
+487	S242	1	no matches		no matches		no matches		no matches		no matches		no matches	
+489	S243	1	no matches		no matches		no matches		no matches		no matches		no matches	
+492	S244	1	no matches		no matches		no matches		no matches		no matches		no matches	
+495	S245	1	no matches		no matches		no matches		no matches		no matches		no matches	
+497	28	2	Organic compounds	1.0	Lipids and lipid-like molecules	1.0	Prenol lipids	0.75	Triterpenoids	0.6875	Triterpenoids	0.625	Aliphatic homopolycyclic compounds	0.6696428571428572
+513	28	2	Organic compounds	1.0	Lipids and lipid-like molecules	1.0	Prenol lipids	0.75	Triterpenoids	0.6875	Triterpenoids	0.625	Aliphatic homopolycyclic compounds	0.6696428571428572
+498	S246	1	no matches		no matches		no matches		no matches		no matches		no matches	
+501	S247	1	no matches		no matches		no matches		no matches		no matches		no matches	
+502	S248	1	no matches		no matches		no matches		no matches		no matches		no matches	
+503	S249	1	no matches		no matches		no matches		no matches		no matches		no matches	
+504	S250	1	no matches		no matches		no matches		no matches		no matches		no matches	
+505	S251	1	no matches		no matches		no matches		no matches		no matches		no matches	
+506	S252	1	no matches		no matches		no matches		no matches		no matches		no matches	
+508	S253	1	no matches		no matches		no matches		no matches		no matches		no matches	
+509	S254	1	no matches		no matches		no matches		no matches		no matches		no matches	
+511	S255	1	Organic compounds	1.0	Phenylpropanoids and polyketides	1.0	Flavonoids	1.0	O-methylated flavonoids	1.0	6-O-methylated flavonoids	1.0	Aromatic heteropolycyclic compounds	1.0
+514	S256	1	no matches		no matches		no matches		no matches		no matches		no matches	
+517	S257	1	no matches		no matches		no matches		no matches		no matches		no matches	
+518	S258	1	no matches		no matches		no matches		no matches		no matches		no matches	
+519	S259	1	no matches		no matches		no matches		no matches		no matches		no matches	
+520	S260	1	no matches		no matches		no matches		no matches		no matches		no matches	
+521	S261	1	no matches		no matches		no matches		no matches		no matches		no matches	
+522	S262	1	no matches		no matches		no matches		no matches		no matches		no matches	
+523	S263	1	no matches		no matches		no matches		no matches		no matches		no matches	
+524	S264	1	no matches		no matches		no matches		no matches		no matches		no matches	
+525	S265	1	no matches		no matches		no matches		no matches		no matches		no matches	
+526	S266	1	no matches		no matches		no matches		no matches		no matches		no matches	
+528	S267	1	no matches		no matches		no matches		no matches		no matches		no matches	
+531	S268	1	no matches		no matches		no matches		no matches		no matches		no matches	
