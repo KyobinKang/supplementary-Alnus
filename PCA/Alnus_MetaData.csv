@@ -1,0 +1,16 @@
+SampleNames;Species;PlantPart
+Af-T;Alnus_firma;Twigs
+Af-L;Alnus_firma;Leaves
+Af-B;Alnus_firma;Barks
+Af-F;Alnus_firma;Fruits
+Aj-T;Alnus_japonica;Twigs
+Aj-L;Alnus_japonica;Leaves
+Aj-F;Alnus_japonica;Fruits
+Aj-B;Alnus_japonica;Barks
+Ah-T;Alnus_hirtusa;Twigs
+Ah-L;Alnus_hirtusa;Leaves
+Ah-F;Alnus_hirtusa;Fruits
+Ahv-T;Alnus_hirtusa_var_sibirica;Twigs
+Ahv-L;Alnus_hirtusa_var_sibirica;Leaves
+Ahv-F;Alnus_hirtusa_var_sibirica;Fruits
+Ahv-B;Alnus_hirtusa_var_sibirica;Barks
