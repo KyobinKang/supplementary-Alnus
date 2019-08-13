@@ -1,0 +1,15 @@
+Aft	Af-T
+Afl	Af-L
+Afb	Af-B
+Aff	Af-F
+Ajt	Aj-T
+Ajl	Aj-L
+Ajb	Aj-B
+Ajf	Aj-F
+Aht	Ah-T
+Ahl	Ah-L
+Ahf	Ah-F
+Ahvt	Ahv-T
+Ahvl	Ahv-L
+Ahvf	Ahv-F
+Ahvb	Ahv-B
