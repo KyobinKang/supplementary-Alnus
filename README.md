@@ -5,14 +5,26 @@ This repository contains supplementary materials relating to the manuscript "Ass
 
 A DOI will be provided upon manuscript publication.
 
-# Raw Data Files
-
-### MZmine_GroupMapping.ipynb
-
-Jupyter notebook used to map metadata onto the mass spectral molecular network in Cytoscape version 3.4.0 ([Shannon et al., 2003](https://genome.cshlp.org/content/13/11/2498.full)) for the MZmine 2 ([Pluskal et al., 2010](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-11-395)) preprocessed dataset.
 
 # Folders
 
 ## Bioactive_Molecular_Network
 
-will be filled
+This folder contatins Jupyter notebook and data files for bioactive molecular networking, which was originally described in [Nothias et al., 2018](https://doi.org/10.1021/acs.jnatprod.7b00737)
+
+## CSCS
+
+This folder contatins Jupyter notebook and data files for calculating CSCS (Cemical structural and compositional similarity) metric and visualizing it via PCoA plot. The method and script was originally described in [Brejnrod et al., 2019](https://doi.org/10.1101/546150)
+
+## PCA
+
+This folder contatins Jupyter notebook and data files for principal component analysis.
+
+## pyMolNetEnhancer
+
+This folder contatins Jupyter notebook and data files for chemical class annotation of molecular families. More detailed description can be found at [Ernst et al., 2019](https://doi.org/10.3390/metabo9070144)
+
+## rMolNetEnhancer
+
+This folder contatins Jupyter notebook and data files for integration of molecular networking and MS2LDA. More detailed description can be found at [Ernst et al., 2019](https://doi.org/10.3390/metabo9070144)
+
