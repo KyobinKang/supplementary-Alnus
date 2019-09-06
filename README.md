@@ -16,11 +16,11 @@ This folder contains Jupyter notebook and data files for calculating CSCS (Cemic
 
 This folder contains Jupyter notebook and data files for principal component analysis.
 
-## Stacked_chromatogram
+## Stacked_Chromatogram
 
 This folder contains Jupyter notebook and a data file used to draw stacked chromatogram (Figure 1).
 
-## Bioactive_Molecular_Network
+## bioactive_molecular_network
 
 This folder contains Jupyter notebook and data files for bioactive molecular networking, which was originally described in [Nothias et al., 2018](https://doi.org/10.1021/acs.jnatprod.7b00737)
 
