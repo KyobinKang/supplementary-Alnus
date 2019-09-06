@@ -20,6 +20,11 @@ This folder contatins Jupyter notebook and data files for calculating CSCS (Cemi
 
 This folder contatins Jupyter notebook and data files for principal component analysis.
 
+# pyMolNetEnhancer
+
+This folder contatins Jupyter notebook and data files for retreving class annotation for molecular familes using GNPS molecular networking, network annotation propagation (NAP) and Classyfire. More detailed description can be found at [Ernst et al., 2019](https://doi.org/10.3390/metabo9070144)
+-> Class annotation can be retreived using GNPS-embed MolNetEnhancer workflow which is described in the manuscript.
+
 ## rMolNetEnhancer
 
 This folder contatins Jupyter notebook and data files for integration of molecular networking and MS2LDA. More detailed description can be found at [Ernst et al., 2019](https://doi.org/10.3390/metabo9070144)
