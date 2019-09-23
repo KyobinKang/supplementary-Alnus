@@ -10,15 +10,19 @@ A DOI will be provided upon manuscript publication.
 
 ## CSCS
 
-This folder contains Jupyter notebook and data files for calculating CSCS (Cemical structural and compositional similarity) metric and visualizing it via PCoA plot. The method and script was originally described in [Brejnrod et al., 2019](https://doi.org/10.1101/546150)
+This folder contains Jupyter notebook and data files for calculating CSCS (Cemical structural and compositional similarity) metric and visualizing it via PCoA plot and chemodendrogram (Figs. 3A and 3B). The method and script was originally described in [Brejnrod et al., 2019](https://doi.org/10.1101/546150)
+
+## HCA_Euclidean
+
+This folder contains Jupyter notebook and a data file used to perform Hierarchycal Clustering Analysis (HCA) with Euclidean distance (Fig. 3D).
 
 ## PCA
 
-This folder contains Jupyter notebook and data files for principal component analysis.
+This folder contains Jupyter notebook and data files for principal component analysis (Fig. 3C).
 
 ## Stacked_Chromatogram
 
-This folder contains Jupyter notebook and a data file used to draw stacked chromatogram (Figure 1).
+This folder contains Jupyter notebook and a data file used to draw stacked chromatogram (Fig. 1).
 
 ## bioactive_molecular_network
 
