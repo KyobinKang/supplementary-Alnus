@@ -1,5 +1,5 @@
 # supplementary-Alnus
-This repository contains supplementary materials relating to the manuscript "Assessing Specialized Metabolite Diversity of Alnus species by Digitized LC–MS/MS Data Analysis Workflow".
+This repository contains supplementary materials relating to the manuscript "Assessing Specialized Metabolite Diversity of Alnus species by a Digitized LC–MS/MS Data Analysis Workflow".
 
 # Citation
 
