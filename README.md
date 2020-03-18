@@ -3,8 +3,7 @@ This repository contains supplementary materials relating to the manuscript "Ass
 
 # Citation
 
-A DOI will be provided upon manuscript publication.
-
+Kang, K.B., Woo, S., Ernst, M., van der Hooft, J.J.J., Nothias, L.F., da Silva, R.R., Dorrestein, P.C., Sung, S.H., Lee, M. (2020) Assessing specialized metabolite diversity of Alnus species by a digitized LC–MS/MS data analysis workflow. Phytochemistry 173, 112292. doi:10.1016/j.phytochem.2020.112292
 
 # Folders
 
